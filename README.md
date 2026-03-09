@@ -1,1 +1,0 @@
-# Elder-Care-Live-Fall-Detection-System
