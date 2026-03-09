@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+scikit-learn
+Pillow
+numpy
+requests
+pandas
+matplotlib
+pygame
